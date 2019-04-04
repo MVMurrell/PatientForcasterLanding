@@ -1,0 +1,32 @@
+.top-left, .top-left .card-description {
+    background-color: #96d9f2 !important;
+    color: #ffffff !important;
+}
+.top-middle {
+    background-color: white !important;
+    color: #444444 !important;
+}
+.top-right, .top-right .card-description {
+    background-color:#96d9f2 !important;
+    color: #ffffff !important;
+
+}
+.bottom-left {
+    background-color: white !important;
+    color: #444444 !important;
+}
+.bottom-right, .bottom-right .card-description {
+    background-color:#96d9f2 !important;
+    color: #ffffff !important;
+}
+
+.top-right span,
+.top-left span,
+.bottom-right span {
+    color: #ffffff !important;
+}
+
+.top-middle .fa,
+.bottom-left .fa{
+    color: #96d9f2 !important;
+}
