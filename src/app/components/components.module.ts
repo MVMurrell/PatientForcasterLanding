@@ -23,6 +23,7 @@ import { InfoAreasComponent } from './info-areas/info-areas.component';
 import { TablesAreasComponent } from './tables-areas/tables-areas.component';
 import { CommentsAreasComponent } from './comments-areas/comments-areas.component';
 import { CardsAreasComponent } from './cards-areas/cards-areas.component';
+import { ContactComponent } from './contact/contact.component';
 
 @NgModule({
     imports: [
@@ -50,7 +51,8 @@ import { CardsAreasComponent } from './cards-areas/cards-areas.component';
         InfoAreasComponent,
         TablesAreasComponent,
         CommentsAreasComponent,
-        CardsAreasComponent
+        CardsAreasComponent,
+        ContactComponent
     ],
     exports:[ ComponentsComponent ]
 })
